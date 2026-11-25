@@ -1,0 +1,4 @@
+-- Optional, Supabase only. Do not run this file against local PGlite.
+-- alter publication supabase_realtime add table drop_members;
+-- alter publication supabase_realtime add table operator_bids;
+-- alter publication supabase_realtime add table bookings;
