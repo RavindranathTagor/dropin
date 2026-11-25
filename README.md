@@ -1,5 +1,7 @@
 # Dropin
 
+demo video: https://youtu.be/vAfNqrrJtQE
+
 Dropin takes one vehicle home. Operators bid a quote for the whole vehicle. Passengers hold seats, and the split is that quote divided by the seats actually held.
 
 The demo route is Bengaluru to Mangaluru, 24 December 2026, night departure.
