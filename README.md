@@ -96,16 +96,6 @@ The passwords are also in the demo switcher.
 
 These are labelled sample operators. A verified operator badge is not a live permit check.
 
-## Demo path
-
-Bengaluru to Mangaluru, 24 December 2026, night.
-
-1. Passenger: hold to speak, or pick the cities, then See fares. Crewmark stays on Anyone for the open drop.
-2. Open the drop. Coastal Tempo is Rs 8,500 for the vehicle. Two seats held is Rs 4,250 a person. Malnad Travels is Rs 16,000 for the mini bus.
-3. Hold a seat. The fare is the operator quote divided by held seats.
-4. The 13th seat on a 12-seat vehicle fails.
-5. Admin: Booking health, run the labelled 2-seat drill. The extra seat fails. NudgeBee shows Delivered.
-6. Amma: a family link with a milestone, not a live location. Kannada and Telugu are spoken by Sarvam.
 
 ## Flagsmith flags
 
